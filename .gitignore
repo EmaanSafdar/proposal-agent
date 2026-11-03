@@ -1,0 +1,8 @@
+.env
+.venv/
+chroma_db/
+state.db
+data/*_cache.json
+data/output/
+__pycache__/
+*.pyc
